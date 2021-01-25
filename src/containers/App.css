@@ -13,3 +13,8 @@ h1 {
   font-weight: 200;
   color: #0ccac4;
 }
+
+.grid{
+  display: grid;
+  grid-template-rows: 187px 1fr;
+}
